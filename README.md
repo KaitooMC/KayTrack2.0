@@ -39,12 +39,10 @@ You can find a list of community hosted instances below. Want to be listed here?
 ## Updates
 For updates and release notes, please read the [CHANGELOG](docs/CHANGELOG.md).
 
-**Migrating to Minetrack 5?** See the [migration guide](docs/MIGRATING.md).
-
 ## Installation
-1. Node 12.4.0+ is required (you can check your version using `node -v`)
+1. Node 14.17.1+ is required (you can check your version using `node -v`)
 2. Make sure everything is correct in ```config.json```.
-3. Add/remove servers by editing the ```servers.json``` file
+3. Add/remove or edit servers in ```servers.json``` file
 4. Run ```npm install```
 5. Run ```npm run build``` (this bundles `assets/` into `dist/`)
 6. Run ```node main.js``` to boot the system (may need sudo!)
