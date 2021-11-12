@@ -1,0 +1,32 @@
+[
+	{
+		"name": "LifeAnarchy",
+		"ip": "lifeanarchy.xyz",
+		"type": "PC"
+	},
+	{
+		"name": "1b1t",
+		"ip": "1b1t.me",
+		"type": "PC"
+	},
+	{
+		"name": "7b7t",
+		"ip": "7b7t.me",
+		"type": "PC"
+	},
+	{
+    "name": "l2x9 (.dev)",
+		"ip": "l2x9.dev",
+		"type": "PC"
+	},
+	{
+    "name": "2L2C",
+		"ip": "2l2c.org",
+		"type": "PC"
+	},
+	{
+		"name": "2b2tLatam",
+		"ip": "2b2tlatam.org",
+		"type": "PC"
+	}
+]
