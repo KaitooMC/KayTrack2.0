@@ -1,9 +1,9 @@
 <p align="center">
-	<img width="120" height="120" src="assets/images/logo.svg">
+	<img width="120" height="120" src="assets/images/logo.png">
 </p>
 
-# Minetrack
-Minetrack makes it easy to keep an eye on your favorite Minecraft servers. Simple and hackable, Minetrack easily runs on any hardware. Use it for monitoring, analytics, or just for fun. [Check it out](https://minetrack.me).
+# KayTrack
+Minetrack makes it easy to keep an eye on your favorite Minecraft servers. Simple and hackable, Minetrack easily runs on any hardware. Use it for monitoring, analytics, or just for fun. [Check it out](https://track.lifearchy.gq/).
 
 ### This project is not actively supported!
 This project is not actively supported. Pull requests will be reviewed and merged (if accepted), but issues _might_ not be addressed outside of fixes provided by community members. Please share any improvements or fixes you've made so everyone can benefit from them.
@@ -19,6 +19,7 @@ This project is not actively supported. Pull requests will be reviewed and merge
 ### Community Showcase
 You can find a list of community hosted instances below. Want to be listed here? Add yourself in a pull request!
 
+* https://track.lifearchy.gq/
 * https://minetrack.me
 * https://bedrock.minetrack.me
 * https://pings.minetrics.com/
